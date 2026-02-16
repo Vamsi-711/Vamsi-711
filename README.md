@@ -82,7 +82,7 @@ To work as an Embedded Systems Engineer and contribute to developing innovative 
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/vamsi-711
-- LinkedIn: https://www.linkedin.com/in/vamsi-markandeya-yerra/
+- LinkedIn: www.linkedin.com/in/vamsi-markandeya-yerra-918558351
 - Portfolio: https://vamsi-711.github.io/portfolio 
 - Mail: yerravamsimarkandeya@gmail.com
 - Contact: 7207245850
