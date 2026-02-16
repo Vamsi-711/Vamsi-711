@@ -80,11 +80,6 @@ To work as an Embedded Systems Engineer and contribute to developing innovative 
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-
----
-
 ## 📫 Connect with Me
 - GitHub: https://github.com/vamsi-711
 - LinkedIn: https://www.linkedin.com/in/vamsi-markandeya-yerra/
