@@ -1,31 +1,38 @@
-# Hi, I'm Vamsi Markandeya 👋
+# Hi, I'm Yerra Vamsi Markandeya👋
 
 ## 🚀 About Me
-I'm an Electronics and Communication Engineering student passionate about Embedded Systems, IoT, and Robotics. I enjoy building intelligent hardware-software integrated systems using microcontrollers and predictive technologies. My interests include embedded development, automation, and real-world engineering problem solving.
+I'm an Electronics and Communication Engineering student specializing in Embedded Systems, IoT, and Robotics. I have hands-on experience designing and developing intelligent embedded solutions using Arduino, ESP32, and microcontrollers. My work focuses on integrating hardware and software to build real-world automation, robotics, and predictive systems.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
+**Programming**
 - C
 - C++
-- Python
+- Basic Python
+- Basic Java
 - Embedded C
 
-**Embedded Systems & Microcontrollers**
-- Arduino
-- ESP32
-- STM32
-- 8051/8086 Microcontrollers
+**Embedded Systems**
+- Arduino microccontrollers
+- ESP32 microcontrollers
+- STM32 microcontrollers
+- 8051 / 8086 Microcontrollers
+- Basics of Raspberry Pi
 
-**Hardware & Design**
+**Hardware Design**
 - PCB Design
 - Analog Circuit Design
-- Sensors and Actuators Integration
+- Sensor Integration
+- Servo Motor Control
 
-**Software & Tools**
+**Tools**
 - Git & GitHub
+- MATLAB
+- Ni Multisim
+- Proteous
+- STM Compiler
 - Arduino IDE
 - VS Code
 - Cadence Virtuoso (Basics)
@@ -35,43 +42,56 @@ I'm an Electronics and Communication Engineering student passionate about Embedd
 ## 🤖 Projects
 
 ### 🕷️ Spyder Bot
-- Designed and developed a multi-legged spider robot using servo motors and ESP32/Arduino
-- Implemented wireless control and coordinated movement
-- Demonstrates robotics, embedded control, and automation
+- Developed a multi-legged spider robot using servo motors and Arduino Nano
+- Implemented coordinated walking motion and wireless control
+- Demonstrates robotics control, embedded programming, and automation
+
+### 🅿️ Smart Parking System
+- Designed an IoT-based parking system using sensors and 8051 Microcontroller
+- Detects parking availability and improves space management
+- Demonstrates IoT integration and automation
+
+### ❤️ ECG Controlled LED System
+- Controlled LED using ECG signals through Arduino UNO
+- Demonstrates biomedical signal interfacing and embedded control
 
 ### 🎬 Movie Result Predictor
-- Built a prediction system using Python to estimate movie success
-- Used data analysis and logical prediction models
-- Demonstrates predictive modeling and data processing
+- Developed a Python-based prediction system for movie success analysis
+- Demonstrates data analysis and predictive modeling
 
 ### 🎟️ Event Ticketing Predictor
-- Developed a system to predict ticket sales based on event parameters
-- Helps in planning and demand estimation
-- Demonstrates real-world predictive application development
+- Built a system to predict event ticket sales using input parameters
+- Helps in demand forecasting and event planning
+- Demonstrates predictive analytics application
 
 ---
 
 ## 🌱 Currently Learning
 - Advanced Embedded Systems
-- IoT System Design
-- Robotics Control Systems
-- HTML & CSS Basics
-- Machine Learning Basics
+- IoT Architecture
+- Robotics Systems
+- Basics of HTML and CSS
+- Machine Learning for Embedded Applications
 
 ---
 
-## 🎯 Career Interests
-- Embedded Systems Development
-- IoT Engineering
-- Robotics Engineering
-- Firmware Development
+## 🎯 Career Objective
+To work as an Embedded Systems Engineer and contribute to developing innovative robotics, IoT, and intelligent embedded solutions.
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 
 ---
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/vamsi-711
 - LinkedIn: https://www.linkedin.com/in/vamsi-markandeya-yerra/
+- Portfolio: https://vamsi-711.github.io/portfolio 
+- Mail: yerravamsimarkandeya@gmail.com
+- Contact: 7207245850
 
 ---
 
-⭐ Always learning, building, and improving embedded and intelligent systems.
+⭐ Passionate about Embedded Systems, Robotics, and building real-world engineering solutions.
