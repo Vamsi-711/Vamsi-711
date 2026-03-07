@@ -30,6 +30,7 @@ I'm an Electronics and Communication Engineering student specializing in Embedde
 **Tools**
 - Git & GitHub
 - MATLAB
+- MySQL
 - Ni Multisim
 - Proteous
 - STM Compiler
