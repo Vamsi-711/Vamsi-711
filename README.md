@@ -55,6 +55,12 @@ I'm an Electronics and Communication Engineering student specializing in Embedde
 ### ❤️ ECG Controlled LED System
 - Controlled LED using ECG signals through Arduino UNO
 - Demonstrates biomedical signal interfacing and embedded control
+  
+### 🚀 ResuméLift — AI ATS Resume Analyzer
+- Built ResuméLift, an AI-powered ATS resume analyzer that evaluates resumes and suggests improvements.
+- Implemented PDF/DOCX/TXT parsing using PDF.js and Mammoth.js.
+- Integrated Groq Llama 3.3-70B API for AI-based resume scoring and feedback
+- Deployed using Node.js serverless functions on Vercel with GitHub version control.
 
 ### 🎬 Movie Result Predictor
 - Developed a Python-based prediction system for movie success analysis
